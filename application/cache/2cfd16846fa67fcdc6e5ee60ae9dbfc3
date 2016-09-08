@@ -1,0 +1,2676 @@
+a:2:{s:6:"expire";i:1472210152;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Fri, 26 Aug 2016 11:14:52 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta name="description" content="">
+		<meta name="author" content="">
+	    <meta name="keywords" content="MediaCenter, Template, eCommerce">
+	    <meta name="robots" content="all">
+
+	    <title>Awfar Market</title>
+
+	    <!-- Bootstrap Core CSS -->
+	    <link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/bootstrap.min.css">
+	    
+	    <!-- Customizable CSS -->
+	    <link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/style-ar.css">
+	    <link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/red.css">
+	    <link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/owl.carousel.css">
+		<link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/owl.transitions.css">
+		<link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/animate.min.css">
+
+		
+	
+		<link href="http://localhost/awfar/awfar/template/front/assets/css/red.css" rel="alternate stylesheet" title="Red color">
+		
+	    <!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+		
+		<!-- Icons/Glyphs -->
+		<link rel="stylesheet" href="http://localhost/awfar/awfar/template/front/assets/css/font-awesome.min.css">
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="http://localhost/awfar/awfar/template/front/images/favico.png">
+
+		<!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
+		<!--[if lt IE 9]>
+			<script src="http://localhost/awfar/awfar/template/front/assets/js/html5shiv.js"></script>
+			<script src="http://localhost/awfar/awfar/template/front/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+ 
+	</head>
+	<body>
+	
+	<div class="wrapper">
+		<!-- ============================================================= TOP NAVIGATION ============================================================= -->
+<nav class="top-bar animate-dropdown">
+    <div class="container">
+        <div class="col-xs-12 col-sm-3 col-md-3 no-margin ">
+            <div class="hotline">
+             16607
+            </div>
+        </div><!-- /.col -->
+        <div class="col-xs-12 col-sm-6 col-md-6  no-margin shops-logos">
+          <ul class="stores">
+          <li><img src="http://localhost/awfar/awfar/template/front/images/awfar_shophover.png" class="greyscale" ></li>
+   
+
+
+          <li class="active"><img src="http://localhost/awfar/awfar/template/front/images/awfar_shophover.png"></li>
+          <li ><img src="http://localhost/awfar/awfar/template/front/images/foodshop.png"  class="greyscale"></li>
+          </ul>
+          
+          <div class="main-store">
+          member of <img src="http://localhost/awfar/awfar/template/front/images/awfar.png">
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 no-margin">
+            <ul class="right">
+            <!--<li><a href="#">Egypt</a></li>-->
+                
+            <!--    <li class="dropdown">
+                    <a class="dropdown-toggle"  data-toggle="dropdown" href="#change-currency">جنيه مصرى </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Euro (EU)</a></li>
+                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dollar (US)</a></li>
+                    </ul>
+                </li>-->
+                <li class="dropdown">
+                    <a class="dropdown-toggle"  data-toggle="dropdown" href="#change-language">English</a>
+                    <ul class="dropdown-menu" role="menu" >
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Arabic</a></li>
+                    </ul>
+                </li>
+              
+                
+            </ul>
+        </div><!-- /.col -->
+    </div><!-- /.container -->
+</nav><!-- /.top-bar -->
+<!-- ============================================================= TOP NAVIGATION : END ============================================================= -->		<!-- ============================================================= HEADER ============================================================= -->
+<header>
+	<div class="container ">
+		
+		<div class="col-xs-12 col-sm-12 col-md-3 logo-holder">
+			<!-- ============================================================= LOGO ============================================================= -->
+<div class="logo">
+	<a href="index.html">
+		<img alt="logo" src="http://localhost/awfar/awfar/template/front/images/awfar_logo.png"  />
+		
+	</a>
+</div><!-- /.logo -->
+<!-- ============================================================= LOGO : END ============================================================= -->		</div><!-- /.logo-holder -->
+
+		<div class="col-xs-12 col-sm-9 col-sm-8 col-md-4 top-search-holder no-margin">
+    
+    <div class="contact inline">
+    </div>
+
+<!-- ============================================================= SEARCH AREA ============================================================= -->
+<div class=" search-area">
+    <form>
+        <div class="control-group">
+            <input class="search-field" placeholder="ابحث عن منتجك المفضل" />
+
+            
+
+            <a class="search-button" href="#" ></a>    
+
+        </div>
+        
+    </form>
+</div><!-- /.search-area -->
+<!-- ============================================================= SEARCH AREA : END ============================================================= -->		</div><!-- /.top-search-holder -->
+<div class="col-xs-12 col-sm-3 col-sm-4 col-md-3 col-lg-2 multisearch-row no-margin">
+<ul class="categories-filter animate-dropdown">
+                <li class="dropdown" style="direction:rtl">
+
+                    <a class="dropdown-toggle multisearch" data-toggle="dropdown" href=""> ابحث فى </a>
+
+                    <ul class="dropdown-menu" role="menu">
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">المتاجر</a></li>
+                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">الأقسام</a></li>
+
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">المنتجات</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+            </div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 top-cart-row no-margin" style="float:left; text-align:right; direction:rtl">
+			<div class="top-cart-row-container">
+    <div class="wishlist-compare-holder">
+        <div class="wishlist ">
+            <a href="#"><img src="http://localhost/awfar/awfar/template/front/images/fav.png"> المنتجات المفضلة  </a>
+        </div>
+       
+    </div>
+<div class="myaccount top-cart-holder dropdown animate-dropdown">
+<img src="http://localhost/awfar/awfar/template/front/images/acc.png">حسابى
+</div>
+    <!-- ============================================================= SHOPPING CART DROPDOWN ============================================================= -->
+    <div class="top-cart-holder dropdown animate-dropdown">
+        
+        <div class="basket">
+            
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                <div class="basket-item-count">
+                    <span class="count">3</span>
+                    <img src="http://localhost/awfar/awfar/template/front/images/cart.png" alt="" />
+                </div>
+
+                
+            </a>
+
+            <ul class="dropdown-menu">
+                <li>
+                    <div class="basket-item">
+                        <div class="row">
+                            <div class="col-xs-4 col-sm-4 no-margin text-center">
+                                <div class="thumb">
+                                    <img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+                                </div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 no-margin">
+                                <div class="title">Blueberry</div>
+                                <div class="price">$270.00</div>
+                            </div>
+                        </div>
+                        <a class="close-btn" href="#"></a>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="basket-item">
+                        <div class="row">
+                            <div class="col-xs-4 col-sm-4 no-margin text-center">
+                                <div class="thumb">
+                                    <img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+                                </div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 no-margin">
+                                <div class="title">Blueberry</div>
+                                <div class="price">$270.00</div>
+                            </div>
+                        </div>
+                        <a class="close-btn" href="#"></a>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="basket-item">
+                        <div class="row">
+                            <div class="col-xs-4 col-sm-4 no-margin text-center">
+                                <div class="thumb">
+                                    <img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/products/products_4.jpg" />
+                                </div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 no-margin">
+                                <div class="title">Blueberry</div>
+                                <div class="price">$270.00</div>
+                            </div>
+                        </div>
+                        <a class="close-btn" href="#"></a>
+                    </div>
+                </li>
+
+
+                <li class="checkout">
+                    <div class="basket-item">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6">
+                                <a href="#" class="le-button inverse">سلة المشتريات</a>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <a href="#" class="le-button">الدفع</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div><!-- /.basket -->
+    </div><!-- /.top-cart-holder -->
+</div><!-- /.top-cart-row-container -->
+<!-- ============================================================= SHOPPING CART DROPDOWN : END ============================================================= -->		</div><!-- /.top-cart-row -->
+
+	</div><!-- /.container -->
+</header>
+<!-- ============================================================= HEADER : END ============================================================= -->
+	<div id="top-banner-and-menu">
+	
+    
+    <div class="container">
+    
+		<div class="col-xs-12 col-sm-3 col-md-2 ads-holder">
+       <div class="open_store_div">أنشىء متجرك الأن</div>
+       
+       <div class="ads">
+       <img src="http://localhost/awfar/awfar/template/front/images/ad1.jpg">
+       </div>
+        <div class="ads">
+       <img src="http://localhost/awfar/awfar/template/front/images/ad2.jpg">
+       </div>
+        <div class="ads">
+       <img src="http://localhost/awfar/awfar/template/front/images/ad3.jpg">
+       </div>
+        </div>
+		<!-- /.sidemenu-holder -->
+
+		<div class="col-xs-12 col-sm-9 col-md-8 homebanner-holder">
+			<!-- ========================================== SECTION – HERO ========================================= -->
+			<div class="food_court_div">
+    	<!----<div class="float_side_left">
+        <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_56.png" width="28" height="20" alt="">قسم الطعام
+    	</div>--->
+     </div>
+    <div class="shop_store_div">
+    	<div class="float_side_left">
+        <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_60.png" width="23" height="20" alt="">تسوق عبر المطعم
+    	</div>
+     </div>
+    <div class="float_side_left" style="padding:0">
+        <img src="http://localhost/awfar/awfar/template/front/images/bgside.jpg" width="21" height="33" alt="">
+        </div>
+        <div class="stores_link_div">تخفيضات &nbsp;&nbsp; | &nbsp;&nbsp; وصل حديثا &nbsp;&nbsp; | &nbsp;&nbsp;جميع المتاجر </div>
+<div id="hero">
+	<div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
+		
+		<div class="item" style="background-image: url(http://localhost/awfar/awfar/template/front/assets/images/sliders/slide1.jpg);">
+			<div class="container-fluid">
+				<div class="caption vertical-center text-left">
+					
+
+					
+					
+					
+				</div><!-- /.caption -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.item -->
+
+		<!-- /.item -->
+
+	</div><!-- /.owl-carousel -->
+</div>
+			
+<!-- ========================================= SECTION – HERO : END ========================================= -->			
+		</div><!-- /.homebanner-holder -->
+        
+        <div class="col-xs-12 col-sm-12 col-md-2 sidemenu-holder">
+        
+        
+			<!-- ================================== TOP NAVIGATION ================================== -->
+            <nav class="navbar navbar-default">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"></a>
+    </div>
+    </nav>
+<div class="side-menu animate-dropdown collapse navbar-collapse">
+    <div class="head"> تسوق جميع الأقسام <i class="fa fa-list"></i></div>        
+    <nav class="yamm megamenu-horizontal" role="navigation">
+        <ul class="nav navbar-nav">
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/electro.png">الكترونيات</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/mob.png">موبيل</a>
+               <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/computer.png"> كومبيوترات وأجهزة</a>
+               <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/sports.png">أدوات رياضية</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/app.png">أجهزة منزلية</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/furniture.png">أثاث</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/holds.png">أدوات منزية</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/cars.png">سيارات</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/fashions.png">ملابس وأزياء</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/cosmatics.png">أدوات تجميل</a>
+              <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li><!-- /.menu-item -->
+            <li><a href="#"><img src="http://localhost/awfar/awfar/template/front/images/fit.png">صحة بدنية</a></li>
+             <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/books.png">كتب</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li>
+             <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/kids.png">أطفال ولعب</a>
+               <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/pets.png">حيوانات أليفة</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/tools.png">قطع غيار</a>
+                <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown menu-item">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="http://localhost/awfar/awfar/template/front/images/landscape.png">طبيعة وحشائش</a>
+               <ul class="dropdown-menu mega-menu">
+                    <li class="yamm-content">
+                        <!-- ================================== MEGAMENU VERTICAL ================================== -->
+<div class="row">
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Computer Cases &amp; Accessories</a></li>
+            <li><a href="#">CPUs, Processors</a></li>
+            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
+            <li><a href="#">Graphics, Video Cards</a></li>
+            <li><a href="#">Interface, Add-On Cards</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="col-xs-12 col-lg-5">
+        <ul>
+            <li><a href="#">Power Supplies Power</a></li>
+            <li><a href="#">Power Supply Testers Sound</a></li>
+            <li><a href="#">Sound Cards (Internal)</a></li>
+            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
+            <li><a href="#">Other</a></li>
+        </ul>
+        
+         <div class="dropdown-banner-holder">
+        <a href="#"><img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/banners/banner-side.png" /></a>
+    </div>
+    </div>
+
+ <div class="dropdown-banner-holder logos-stores">
+       <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" />
+              <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" />
+                     <img alt="" src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" />
+
+
+    </div>
+   
+</div>
+<!-- ================================== MEGAMENU VERTICAL ================================== -->                        
+                    </li>
+                </ul>
+            </li>
+        </ul><!-- /.nav -->
+    </nav><!-- /.megamenu-horizontal -->
+</div><!-- /.side-menu -->
+<!-- ================================== TOP NAVIGATION : END ================================== -->		</div> 
+	</div><!-- /.container -->
+</div><!-- /#top-banner-and-menu -->
+	
+<!-- ========================================= HOME BANNERS ========================================= -->
+<section id="banner-holder" class="wow fadeInUp">
+    <div class="container">
+        <div class="col-xs-12 col-lg-10 col-md-10 no-margin banner">
+            <a href="">
+                
+                <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_123.jpg" width="999" height="80" alt="">
+            </a>
+        </div>
+        <div class="col-xs-12 col-lg-2 col-md-2 no-margin text-right banner">
+            <a href="">
+                
+                <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_125.jpg" width="200" height="80" alt="">
+            </a>
+        </div>
+    </div><!-- /.container -->
+</section><!-- /#banner-holder -->
+<!-- ========================================= HOME BANNERS : END ========================================= -->
+<div style="   background-color: #f7f6f6; padding-top:20px;    padding-bottom: 41px;">
+    <div class="container">
+    <div class="col-xs-12 col-sm-2 col-md-2 "><img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_130.jpg"></div>
+    <div id="products-tab " class="wow fadeInUp col-xs-12 col-sm-8 col-md-8 ">
+        <div class="tab-holder">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" >
+                <li class="active"><a href="#featured" data-toggle="tab">المتجرالأعلى   </a></li>
+                <li><a href="#brands" data-toggle="tab">أعلى الماركات </a></li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane active" id="featured">
+                <div class="nav-holder">
+					<a href="#prev" data-target="#owl-shop" class="slider-prev btn-prev fa fa-angle-left"></a>
+					<a href="#next" data-target="#owl-shop" class="slider-next btn-next fa fa-angle-right"></a>
+				</div>
+              <!--  <div id="owl-shop" class="owl-carousel">
+
+                   <div>
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+                    <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+                  </div>
+               <div>
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+                 </div>
+                <div>
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" alt="" />
+                <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+         </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_14.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_17.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+         <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_14.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_17.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+         <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+    </div> 
+
+         </div>-->
+ <div id="owl-shop" class="owl-carousel">
+<div> 
+            <a href="http://localhost/awfar/awfar/index.php/home/vendor/1/Vendor-Shop"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1.png" alt="Vendor Shop" title="Vendor Shop">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/2/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_2.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/3/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_3.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/4/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_4.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/5/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_5.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/6/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_6.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/7/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_7.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/8/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_8.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/9/Randall-Garcia"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Randall Garcia"  title="Randall Garcia" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/23/zmoroda"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="zmoroda"  title="zmoroda" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/222/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_222.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/322/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_322.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/422/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_422.png" alt="Example Vendor" title="Example Vendor">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/511/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Example Vendor"  title="Example Vendor" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/611/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Example Vendor"  title="Example Vendor" >  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/711/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Example Vendor"  title="Example Vendor" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/811/Example-Vendor"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Example Vendor"  title="Example Vendor" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/911/Randall-Garcia"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="Randall Garcia"  title="Randall Garcia" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/1001/arg"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1001.png" alt="arg" title="arg">  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/1002/awfar-market"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1002.png" alt="awfar market" title="awfar market">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/1003/Ahmed-Shoeib"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1003.png" alt="Ahmed Shoeib" title="Ahmed Shoeib">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/1005/souq"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1005.png" alt="souq" title="souq">  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/1007/emanco"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_1007.png" alt="emanco" title="emanco">  
+                             
+                        </a> 
+                    
+                 </div><div>          <a href="http://localhost/awfar/awfar/index.php/home/vendor/1008/khodeer-co"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="khodeer co"  title="khodeer co" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/1010/2"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="2"  title="2" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/100111/arg"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="arg"  title="arg" >  
+                             
+                        </a> 
+                    
+                           <a href="http://localhost/awfar/awfar/index.php/home/vendor/100211/awfar-market"> 
+                                                        <img src="http://localhost/awfar/awfar/uploads/vendor/logo_0.png" alt="awfar market"  title="awfar market" >  
+                             
+                        </a> 
+                    
+                   
+
+                             
+         </div></div>
+              </div>
+                <div class="tab-pane" id="brands">
+                    
+                     <div class="nav-holder">
+					<a href="#prev" data-target="#owl-brands" class="slider-prev btn-prev fa fa-angle-left"></a>
+					<a href="#next" data-target="#owl-brands" class="slider-next btn-next fa fa-angle-right"></a>
+				</div>
+                <div id="owl-brands" class="owl-carousel">
+
+                   <div>
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+                    <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+                  <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+                  </div>
+               <div>
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+                 </div>
+                <div>
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_12.jpg" alt="" />
+                <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+                 <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+         </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_14.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_17.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+         <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_14.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_17.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_09.jpg" alt="" />
+         <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_20.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+    </div>
+    <div>
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_11.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_13.jpg" alt="" />
+        <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_05.jpg" alt="" />
+                   <img src="http://localhost/awfar/awfar/template/front/images/logos/logo_07.jpg" alt="" />
+    </div> 
+
+         </div> 
+
+                </div>
+
+                
+                </div>
+            </div>
+        </div>
+    
+    <div class="col-xs-12 col-sm-2 col-md-2 "><img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_139.jpg"></div>
+</div>
+</div>
+<!-- ========================================= BEST SELLERS ========================================= -->
+<section id="new-arrival" class="color-bg wow fadeInUp">
+    <div class="container">
+       <div class="carousel-holder hover">
+			
+			<div class="title-nav">
+				<h2 class="h1">وصل حديثا</h2>
+				<div class="nav-holder">
+					<a href="#prev" data-target="#owl-new-arrivals" class="slider-prev btn-prev fa fa-angle-left"></a>
+					<a href="#next" data-target="#owl-new-arrivals" class="slider-next btn-next fa fa-angle-right"></a>
+				</div>
+			</div><!-- /.title-nav -->
+
+			<div id="owl-new-arrivals" class="owl-carousel product-grid-holder">
+            <div>
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                 </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">cinemizer OLED 3D </a>
+							</div>
+							<div class="brand">zeiss</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+              </div>
+              <div>
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                    				<div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">cinemizer OLED 3D </a>
+							</div>
+							<div class="brand">zeiss</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+             </div>
+             <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_4.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                  <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+            </div>
+            <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 7772/120 </a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon green"><span>أكثر مبيعا</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_6.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">netbook acer travel </a>
+							</div>
+							<div class="brand">acer</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+			</div><!-- /.product-item-holder -->
+        
+         <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon green"><span>أكثر مبيعا</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_6.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">netbook acer travel </a>
+							</div>
+							<div class="brand">acer</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+     </div>
+              <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_7.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">iPod touch 5th generation</a>
+							</div>
+							<div class="brand">apple</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                  <div class=" no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 777</a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    
+				</div><!-- /.product-item-holder -->
+      </div>
+           <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div><!-- /.product-item-holder -->
+                   <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 777</a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div><!-- /.product-item-holder -->
+			</div><!-- /#new arrivals-carousel -->
+
+		</div><!-- /.carousel-holder -->
+    </div><!-- /.container -->
+</section><!-- /#أكثر مبيعاs -->
+<!-- ========================================= BEST SELLERS : END ========================================= -->
+<!-- ========================================= Featured Products ========================================= -->
+
+<section id="recently-reviewd" class=" wow fadeInUp" style="background:url(images/featured-bg.jpg)">
+	<div class="container">
+		<div class="carousel-holder hover">
+			
+			<div class="title-nav">
+				<h2 class="h1">المنتجات المميزة</h2>
+				<div class="nav-holder">
+					<a href="#prev" data-target="#owl-recently-viewed" class="slider-prev btn-prev fa fa-angle-left"></a>
+					<a href="#next" data-target="#owl-recently-viewed" class="slider-next btn-next fa fa-angle-right"></a>
+				</div>
+			</div><!-- /.title-nav -->
+
+			<div id="owl-recently-viewed" class="owl-carousel product-grid-holder">
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">LC-70UD1U 70" </a>
+							</div>
+							<div class="brand">Sharp</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                        <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">cinemizer OLED 3D </a>
+							</div>
+							<div class="brand">zeiss</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                        <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_4.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">HD multi-Touch Monitor</a>
+							</div>
+							<div class="brand">dell</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                        <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon integrated 3D</a>
+							</div>
+							<div class="brand">harman</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                        <div class="price-prev">جنيه مصرى 299.00</div>
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon green"><span>أكثر مبيعا</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_6.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">B113-E-10072</a>
+							</div>
+							<div class="brand">acer</div>
+                             <div class="star-holder inline"><div class="star" data-score="5"></div></div>
+
+						</div>
+						<div class="prices">
+                                                <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_7.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">iPod touch 5th generation</a>
+							</div>
+							<div class="brand">apple</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                            <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div><!-- /.product-item-holder -->
+
+				<!-- /.product-item-holder -->
+               <div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">iPod touch 5th generation</a>
+							</div>
+							<div class="brand">apple</div>
+                             <div class="star-holder inline"><div class="star" data-score="4"></div></div>
+
+						</div>
+						<div class="prices">
+                        <div class="price-prev">جنيه مصرى 299.00</div>
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div>
+				<!-- /.product-item-holder -->
+                <div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">iPod touch 5th generation</a>
+							</div>
+							<div class="brand">apple</div>
+                             <div class="star-holder inline"><div class="star" data-score="3"></div></div>
+
+						</div>
+						<div class="prices">
+                               <div class="price-prev">جنيه مصرى 299.00</div>
+
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+				</div>
+			</div><!-- /#recently-carousel -->
+
+		</div><!-- /.carousel-holder -->
+	</div><!-- /.container -->
+</section><!-- /#recently-reviewd -->
+<!-- ========================================= RECENTLY VIEWED : END ========================================= -->
+<!-- ========================================= TOP BRANDS ========================================= -->
+<section id="top-brands" class="color-bg wow fadeInUp">
+    <div class="container">
+       <div class="carousel-holder hover">
+			
+			<div class="title-nav">
+				<h2 class="h1">الأعلى مبيعا</h2>
+				<div class="nav-holder">
+					<a href="#prev" data-target="#owl-sellrs" class="slider-prev btn-prev fa fa-angle-left"></a>
+					<a href="#next" data-target="#owl-sellrs" class="slider-next btn-next fa fa-angle-right"></a>
+				</div>
+			</div>
+            
+           
+          
+            
+            <div id="owl-sellers" class="owl-carousel product-grid-holder">
+            <div>
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                 </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">cinemizer OLED 3D </a>
+							</div>
+							<div class="brand">zeiss</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+              </div>
+              <div>
+				<div class="no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                    				<div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_3.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">cinemizer OLED 3D </a>
+							</div>
+							<div class="brand">zeiss</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+             </div>
+             <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_4.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                  <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+            </div>
+            <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 7772/120 </a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon green"><span>أكثر مبيعا</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_6.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">netbook acer travel </a>
+							</div>
+							<div class="brand">acer</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+			</div><!-- /.product-item-holder -->
+        
+         <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon green"><span>أكثر مبيعا</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_6.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">netbook acer travel </a>
+							</div>
+							<div class="brand">acer</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- /.product-item-holder -->
+     </div>
+              <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_7.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">iPod touch 5th generation</a>
+							</div>
+							<div class="brand">apple</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                  <div class=" no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 777</a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    
+				</div><!-- /.product-item-holder -->
+      </div>
+           <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+						<div class="ribbon red"><span>تنزيل</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">class aquos 4K ultra </a>
+							</div>
+							<div class="brand">Sharp</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div><!-- /.product-item-holder -->
+                   <div>
+				<div class=" no-margin carousel-item product-item-holder size-small hover">
+					<div class="product-item">
+						<div class="ribbon blue"><span> وصل حديثا!</span></div> 
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_5.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">kardon BDS 777</a>
+							</div>
+							<div class="brand">harman</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div><!-- /.product-item -->
+                    </div>
+                   <div class="no-margin carousel-item product-item-holder size-small hover">
+
+                    <div class="product-item">
+
+						<div class="image">
+							<img alt="" src="http://localhost/awfar/awfar/template/front/assets/images/blank.gif" data-echo="http://localhost/awfar/awfar/template/front/assets/images/products/products_2.jpg" />
+						</div>
+						<div class="body">
+							<div class="title">
+								<a href="single-product.html">s2340T23" full HD </a>
+							</div>
+							<div class="brand">dell</div>
+						</div>
+						<div class="prices">
+							<div class="price-current text-right">جنيه مصرى 199.00</div>
+						</div>
+						<div class="hover-area">
+							<div class="add-cart-button">
+								<a href="single-product.html" class="le-button">أضف للعربة</a>
+							</div>
+							<div class="wish-مقارنة">
+								<a class="btn-add-to-wishlist" href="#">اضف لقائمة الأمنيات </a>
+								<a class="btn-add-to-مقارنة" href="#">مقارنة</a>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div><!-- /.product-item-holder -->
+			</div>
+            <!-- /.brands-caresoul -->
+
+        </div><!-- /.carousel-holder -->
+    </div><!-- /.container -->
+</section><!-- /#top-brands -->
+<!-- ========================================= TOP BRANDS : END ========================================= -->		<!-- ============================================================= FOOTER ============================================================= -->
+<section style="background:#f8f6f7 ; padding:10px">
+<div class="container">
+<img src="http://localhost/awfar/awfar/template/front/images/ads10.jpg">
+</div> 
+
+</section>
+
+
+<footer id="footer" class="color-bg">
+    
+    
+    <!-- /.sub-form-row -->
+
+    <div class="link-list-row">
+        <div class="container no-padding">
+            
+
+            <div class="col-xs-12 col-md-9 no-margin" style="text-align:right">
+                <!-- ============================================================= LINKS FOOTER ============================================================= -->
+
+<div class="link-widget links">
+    <div class="widget">
+        <h3>حسابى
+        <div class="sep"></div>
+        </h3>
+        <ul>
+            <li><a href="#">نبذة عنا</a></li>
+            <li><a href="#">تابع الشراء</a></li>
+            <li><a href="#">العائدات</a></li>
+            <li><a href="#">خدمة العملاء</a></li>
+            <li><a href="#">الشروط و الأحكام</a></li>
+           
+        </ul>
+    </div><!-- /.widget -->
+</div>
+<div class="link-widget links">
+    <div class="widget">
+        <h3>الخدمات
+        <div class="sep"></div>
+        </h3>
+        <ul>
+            <li><a href="#">ابحث عن متجر</a></li>
+            <li><a href="#">اتصل بنا</a></li>
+            <li><a href="#">الاسئلة الشائعة</a></li>
+            <li><a href="#">العائدات</a></li>
+            <li><a href="#">متابعة الشراء</a></li>
+            
+        </ul>
+    </div><!-- /.widget -->
+</div><!-- /.link-widget -->
+
+<div class="link-widget links">
+    <div class="widget">
+        <h3>روابط مهمة
+        <div class="sep"></div>
+        </h3>
+        <ul>
+            <li><a href="#">سلة المشتريات</a></li>
+            <li><a href="#">حسابى</a></li>
+            <li><a href="#">قائمة المفضلة</a></li>
+            <li><a href="#">الشراكة</a></li>
+            <li><a href="#">تاريخ المنشأة</a></li>
+            
+
+        </ul>
+    </div><!-- /.widget -->
+</div><!-- /.link-widget -->
+
+<div class="link-widget" >
+    <div class="widget">
+        <h3>اتصل بنا
+        <div class="sep"></div>
+        </h3>
+        <ul>
+            <li><img src="http://localhost/awfar/awfar/template/front/images/contact_address.jpg" width="16" height="16">13 شارع 254 دجلة , المعادى, القاهره - مصر </li>
+            <li><img src="http://localhost/awfar/awfar/template/front/images/contact_phone.jpg" width="16" height="16">هاتف:</a></li>
+            <li><img src="http://localhost/awfar/awfar/template/front/images/contact_mail.jpg" width="16" height="16"> support@awfarshop.com</a></li>
+            
+
+        </ul>
+        
+        <div id="map-2519275806" style="width:270px; height:150px;"></div>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js"></script>
+
+<script type="text/javascript">
+	function initialize()
+	{
+	  var mapProp = {
+	    center: new google.maps.LatLng(29.962696,31.276942),
+	    zoom:15,
+	    mapTypeId: google.maps.MapTypeId.ROADMAP
+	  };
+	  var map = new google.maps.Map(document.getElementById("map-2519275806"),mapProp);
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+    </div><!-- /.widget -->
+</div><!-- /.link-widget -->
+
+<!-- /.link-widget -->
+<!-- ============================================================= LINKS FOOTER : END ============================================================= -->            </div>
+<div class="col-xs-12 col-md-3 ">
+                <!-- ============================================================= CONTACT INFO ============================================================= -->
+<div class="contact-info">
+    <div class="footer-logo">
+        <img src="http://localhost/awfar/awfar/template/front/images/Awfar_logo.png" >  
+    </div><!-- /.footer-logo -->
+    
+    
+    
+    <p>
+       <b> أوفر شوب</b> بوابة تسوق وتجارة الكترونية واعده,واحده من مشاريع  <b>أوفر.كوم</b>  ,
+    </p>
+    
+    <div class="social-icons">
+        <h3>تواصل معنا عبر مواقع التواصل الاجتماعى</h3>
+        <ul>
+            <li><a href="#" class="fa fa-facebook"></a></li>
+            <li><a href="#" class="fa fa-twitter"></a></li>
+            <li><a href="#" class="fa fa-pinterest"></a></li>
+            <li><a href="#" class="fa fa-linkedin"></a></li>
+            <li><a href="#" class="fa fa-google-plus"></a></li>
+            <li><a href="#" class="fa fa-instagram"></a></li>
+            
+        </ul>
+    </div><!-- /.social-icons -->
+
+</div>
+<!-- ============================================================= CONTACT INFO : END ============================================================= -->            </div>
+        </div><!-- /.container -->
+    </div><!-- /.link-list-row -->
+
+    <div class="copyright-bar">
+        <div class="container">
+            
+            <div class="col-xs-12 col-sm-6 no-margin " >
+                <div class="payment-methods ">
+                    <ul>
+                    <li>      <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_174.jpg" width="59" height="32" alt="">
+</li>
+                        <li><img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_172.jpg" width="59" height="32" alt=""></li>
+                        <li> <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_170.jpg" width="59" height="32" alt=""></li>
+                        <li> <img src="http://localhost/awfar/awfar/template/front/images/awfar_shop_food_slices_168.jpg" width="59" height="32" alt=""></li>
+                    </ul>
+                </div><!-- /.payment-methods -->
+            </div>
+            
+            <div class="col-xs-12 col-sm-6 no-margin" style="text-align:right">
+                <div class="copyright">
+                    &copy; 2016 <a href="index.html">أوفر شوب</a> - جميع الحقوق محفوظة
+                </div><!-- /.copyright -->
+            </div>
+        </div><!-- /.container -->
+    </div><!-- /.copyright-bar -->
+
+</footer><!-- /#footer -->
+<section style="    background: #333;">
+<div class="container" style="background:url(images/bg_newsletter.png) right 0 no-repeat">
+
+<div class="footer_newsletter">
+<div class="float_side_right">
+     
+   	<span class="footer_newsletter_subscribe_title">اشترك فى القائمة البريدية
+</span> <br>
+    <span class="footer_newsletter_subscribe_sale">واحصل على كود تخفيض يصل الى  30 %
+
+</span> 
+     </div>
+             <div class="float_side_right">
+        <input name="newsletter_e-mail" class="text" id="email_field" style="FONT-SIZE: 11pt; color: #aaaaaa; padding-right: 12px; text-align:right;height:35px" value="&nbsp; بريدك الالكترونى" size="45px">
+         </div>
+                      <span class="footer_newsletter_subscribe_b">اشترك</span> 
+
+     
+
+
+ </div>
+</div>
+</section>
+<!-- ============================================================= FOOTER : END ============================================================= -->	</div><!-- /.wrapper -->
+
+	
+	<!-- JavaScripts placed at the end of the document so the pages load faster -->
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/jquery-1.10.2.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/jquery-migrate-1.2.1.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/bootstrap.min.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/gmap3.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/bootstrap-hover-dropdown.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/owl.carousel.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/css_browser_selector.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/echo.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/jquery.easing-1.3.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/bootstrap-slider.min.js"></script>
+    <script src="http://localhost/awfar/awfar/template/front/assets/js/jquery.raty.min.js"></script>
+    <script src="http://localhost/awfar/awfar/template/front/assets/js/jquery.prettyPhoto.min.js"></script>
+    <script src="http://localhost/awfar/awfar/template/front/assets/js/jquery.customSelect.min.js"></script>
+    <script src="http://localhost/awfar/awfar/template/front/assets/js/wow.min.js"></script>
+	<script src="http://localhost/awfar/awfar/template/front/assets/js/scripts.js"></script>
+
+	
+	
+	
+</body>
+</html><script id="checked" src="http://activeitzone.com/check/shop.js" ></script>
